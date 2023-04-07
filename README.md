@@ -21,3 +21,5 @@
 ### 📖 Web Development
 📆 2022 - 2023
 📍 University of Toronto Full Stack Development 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sophack)](https://github.com/ryo-ma/github-profile-trophy)
