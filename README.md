@@ -14,14 +14,11 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sophack&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophack&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/sarafprofessional/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sophack&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
 ### 📖 Web Development
 📆 2022 - 2023
 📍 University of Toronto Full Stack Development 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sophack&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
